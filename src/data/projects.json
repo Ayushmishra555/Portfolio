@@ -11,7 +11,7 @@
     "title": "Music Regeneration",
     "imageSrc": "projects/music.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "skills": ["Jupyter Notebook", "Kaggle", "Python", "Collab"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
