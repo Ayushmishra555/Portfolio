@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Little Lemon ",
+    "imageSrc": "projects/lemon.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "HTML", "CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Music Regeneration",
+    "imageSrc": "projects/music.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node", "Sass"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "AQI Analysis",
+    "imageSrc": "projects/AQI.jpg",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Jupyter Notebook", "Kaggle", "Python"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
